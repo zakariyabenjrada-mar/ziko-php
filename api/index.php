@@ -117,6 +117,19 @@
             </div>
         </div>
 
+
+        <!-- Atelier 3 -->
+        <div class="atelier">
+            <h3>Atelier 3</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="#">📄 Rapport</a>
+                <a href="#">💻 GitHub</a>
+            </div>
+        </div>
+
+
         <!-- Tu peux copier ce bloc pour ajouter d'autres ateliers -->
 
     </div>
