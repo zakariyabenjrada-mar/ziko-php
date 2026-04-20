@@ -113,7 +113,7 @@
 
             <div class="links">
                 <a href="At2.pdf">📄 Rapport</a>
-                <a href="#">💻 GitHub</a>
+                <a href="alt2.php">💻 GitHub</a>
             </div>
         </div>
 
