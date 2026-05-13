@@ -113,7 +113,8 @@
 
             <div class="links">
                 <a href="At2.pdf">📄 Rapport</a>
-                <a href="alt2.php">💻 GitHub</a>
+                
+                <a href="traitemenents.php">form </a>
             </div>
         </div>
 
@@ -142,7 +143,32 @@
                 <a href="#">💻 GitHub</a>
             </div>
         </div>
+        
 
+        <div class="atelier">
+            <h3>Atelier 7</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="">📄Ennoncé atelier 7</a>
+
+                <a href="#">📄 Rapport</a>
+                <a href="#">💻 GitHub</a>
+            </div>
+        </div>
+
+
+        <div class="atelier">
+            <h3>Atelier 8</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="">📄Ennoncé atelier 8</a>
+
+                <a href="#">📄 Rapport</a>
+                <a href="#">💻 https://github.com/zakariyabenjrada-mar/Fuit-_Store.git</a>
+            </div>
+        </div>
 
         <!-- Tu peux copier ce bloc pour ajouter d'autres ateliers -->
 
