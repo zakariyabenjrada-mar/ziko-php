@@ -166,7 +166,7 @@
                 <a href="">📄Ennoncé atelier 8</a>
 
                 <a href="#">📄 Rapport</a>
-                <a href="#">💻 https://github.com/zakariyabenjrada-mar/Fuit-_Store.git</a>
+                <a href="https://github.com/zakariyabenjrada-mar/Fuit-_Store.git">💻 GitHub</a>
             </div>
         </div>
 
