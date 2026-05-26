@@ -125,7 +125,10 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="#">📄 Rapport</a>
+
+            <a href="At3.pdf">Ennoncé Atelier :3 </a>
+                <a href="zekout.pdf">📄 Rapport</a>
+                
                 <a href="#">💻 GitHub</a>
             </div>
         </div>
@@ -139,8 +142,8 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="#">📄 Rapport</a>
-                <a href="#">💻 GitHub</a>
+                <a href="public/Rapp4.pdf">📄 Rapport</a>
+                <a href="https://github.com/zakariyabenjrada-mar/ATL4.git">💻 GitHub</a>
             </div>
         </div>
         
@@ -163,8 +166,7 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="">📄Ennoncé atelier 8</a>
-                <a href="store.php">Site Web</a>
+                <a href="store.php">📄Ennoncé atelier 8</a>
                 <a href="#">📄 Rapport</a>
                 <a href="https://github.com/zakariyabenjrada-mar/Fuit-_Store.git">💻 GitHub</a>
             </div>
