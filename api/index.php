@@ -142,7 +142,7 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="public/Rapp4.pdf">📄 Rapport</a>
+                <a href="Rapp4.pdf">📄 Rapport</a>
                 <a href="https://github.com/zakariyabenjrada-mar/ATL4.git">💻 GitHub</a>
             </div>
         </div>
