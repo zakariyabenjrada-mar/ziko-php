@@ -183,6 +183,18 @@
             </div>
         </div>
 
+         <div class="atelier">
+            <h3>Atelier 9</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="public/images/atl9.pdf">📄Ennoncé atelier 9</a>
+                <a href="#">📄 Rapport</a>
+                <a href="https://github.com/zakariyabenjrada-mar/atl9.git">💻 GitHub</a>
+            </div>
+        </div>
+
+
         <!-- Tu peux copier ce bloc pour ajouter d'autres ateliers -->
 
     </div>
