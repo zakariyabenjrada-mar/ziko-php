@@ -147,6 +147,17 @@
             </div>
         </div>
         
+           <!-- Atelier 5 -->
+        <div class="atelier">
+            <h3>Atelier 5</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="At5.pdf">📄Ennoncé atelier5</a>
+                <a href="Rapp5(1).pdf">📄 Rapport</a>
+                <a href="https://github.com/zakariyabenjrada-mar/atelier5.git">💻 GitHub</a>
+            </div>
+        </div>
 
         <div class="atelier">
             <h3>Atelier 7</h3>
