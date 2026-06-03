@@ -188,18 +188,40 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/public/images/atl9.pdf">📄Ennoncé atelier 9</a>
+                <a href="/atl9.pdf">📄Ennoncé atelier 9</a>
                 <a href="#">📄 Rapport</a>
                 <a href="https://github.com/zakariyabenjrada-mar/atl9.git">💻 GitHub</a>
             </div>
         </div>
 
+         <div class="atelier">
+            <h3>Atelier 14</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="/At14.pdf">📄Ennoncé atelier 14</a>
+                
+                <a href="">💻 GitHub</a>
+            </div>
+        </div>
+
         <div class="atelier">
+            <h3>Atelier 14</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="/burger_code.pdf">📄Ennoncé atelier 15</a>
+                
+                <a href="https://github.com/zakariyabenjrada-mar/ATL14.git">💻 GitHub</a>
+            </div>
+        </div>
+
+         <div class="atelier">
             <h3>Atelier 15</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/public/images/At14.pdf">📄Ennoncé atelier 15</a>
+                <a href="/At14.pdf">📄Ennoncé atelier 15</a>
                 
                 <a href="https://github.com/zakariyabenjrada-mar/ATL15.git">💻 GitHub</a>
             </div>
