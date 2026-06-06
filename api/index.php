@@ -101,14 +101,14 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/AT1AT1.docx">📄 Rapport</a>
+                <a href="/At1.pdf">📄 Rapport</a>
                 
             </div>
         </div>
 
         <!-- Atelier 2 -->
         <div class="atelier">
-            <h3>Atelier 2</h3>
+            <h3>Atelier 2- Gestion d'un formulaire d'inscription</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
@@ -121,15 +121,15 @@
 
         <!-- Atelier 3 -->
         <div class="atelier">
-            <h3>Atelier 3</h3>
+            <h3>Atelier 3- Upload de fichiers en PHP</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
 
             <a href="At3.pdf">Ennoncé Atelier :3 </a>
-                <a href="zekout.pdf">📄 Rapport</a>
+            <a href="/At3 (1).pdf">📄 Rapport</a>
                 
-                <a href="#">💻 GitHub</a>
+            <a href="https://github.com/zakariyabenjrada-mar/ATL3.git">💻 GitHub</a>
             </div>
         </div>
 
@@ -138,10 +138,11 @@
 
           <!-- Atelier 4 -->
         <div class="atelier">
-            <h3>Atelier 4</h3>
+            <h3>Atelier 4- Gestion des étudiants(Fichier texte + Upload photo +Recherche)</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
+                  <a href="/At4.pdf">📄Ennoncé atelier 4</a>
                 <a href="Rapp4.pdf">📄 Rapport</a>
                 <a href="https://github.com/zakariyabenjrada-mar/ATL4.git">💻 GitHub</a>
             </div>
@@ -149,7 +150,7 @@
         
            <!-- Atelier 5 -->
         <div class="atelier">
-            <h3>Atelier 5</h3>
+            <h3>Atelier 5- Gestion des sessions, cookies</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
@@ -159,8 +160,20 @@
             </div>
         </div>
 
+          <!-- Atelier 6 -->
         <div class="atelier">
-            <h3>Atelier 7</h3>
+            <h3>Atelier 6- la POO en PHP</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="/At6.pdf">📄Ennoncé atelier6</a>
+            
+                <a href="">💻 GitHub</a>
+            </div>
+        </div>
+
+        <div class="atelier">
+            <h3>Atelier 7- POO en PHP avec Sessions</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
@@ -173,7 +186,7 @@
 
 
         <div class="atelier">
-            <h3>Atelier 8</h3>
+            <h3>Atelier 8- Application E-Fruits controle continu</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
@@ -184,44 +197,78 @@
         </div>
 
          <div class="atelier">
-            <h3>Atelier 9</h3>
+            <h3>Atelier 9 - MYSQL PDO:application gestion des etudiants </h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/atl9.pdf">📄Ennoncé atelier 9</a>
-                <a href="#">📄 Rapport</a>
+                <a href="/ApplicationBDD.pptx">📄Ennoncé atelier 9</a>
+      
                 <a href="https://github.com/zakariyabenjrada-mar/atl9.git">💻 GitHub</a>
             </div>
         </div>
 
-         <div class="atelier">
-            <h3>Atelier 14</h3>
+
+          <div class="atelier">
+            <h3>Atelier 10-La Pagination en PHP</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/At14.pdf">📄Ennoncé atelier 14</a>
+                <a href="/At10.pdf">📄Ennoncé atelier 9</a>
+      
+                <a href="https://github.com/zakariyabenjrada-mar/ATL10.git">💻 GitHub</a>
+            </div>
+        </div>
+
+        <div class="atelier">
+            <h3>Atelier 11 Ajax Reponse HTML</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="">📄Ennoncé atelier 8</a>
+                <a href="#">📄 Rapport</a>
+                <a href="https://github.com/zakariyabenjrada-mar/Fuit-_Store.git">💻 GitHub</a>
+            </div>
+        </div>
+
+        <div class="atelier">
+            <h3>Atelier 8- Application E-Fruits controle continu</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="store.php">📄Ennoncé atelier 8</a>
+                <a href="#">📄 Rapport</a>
+                <a href="https://github.com/zakariyabenjrada-mar/Fuit-_Store.git">💻 GitHub</a>
+            </div>
+        </div>
+
+         <div class="atelier">
+            <h3>Atelier 13 services web</h3>
+            <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
+
+            <div class="links">
+                <a href="/At13.pdf">📄Ennoncé atelier 14</a>
                 
                 <a href="">💻 GitHub</a>
             </div>
         </div>
 
         <div class="atelier">
-            <h3>Atelier 14</h3>
+            <h3>Atelier 14-Burger_code</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/burger_code.pdf">📄Ennoncé atelier 15</a>
+                <a href="/burger_code (1).pptx">📄Ennoncé atelier 14</a>
                 
                 <a href="https://github.com/zakariyabenjrada-mar/ATL14.git">💻 GitHub</a>
             </div>
         </div>
 
          <div class="atelier">
-            <h3>Atelier 15</h3>
+            <h3>Atelier 15 Architecture MVC</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/At14.pdf">📄Ennoncé atelier 15</a>
+                <a href="/At15(2).pdf">📄Ennoncé atelier 15</a>
                 
                 <a href="https://github.com/zakariyabenjrada-mar/ATL15.git">💻 GitHub</a>
             </div>
