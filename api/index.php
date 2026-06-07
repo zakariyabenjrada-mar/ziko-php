@@ -257,7 +257,7 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/burger_code (1).pptx">📄Ennoncé atelier 14</a>
+                <a href="burger_code (1).pptx">📄Ennoncé atelier 14</a>
                 
                 <a href="https://github.com/zakariyabenjrada-mar/ATL14.git">💻 GitHub</a>
             </div>
@@ -268,7 +268,7 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="/At15(2).pdf">📄Ennoncé atelier 15</a>
+                <a href="At15(2).pdf">📄Ennoncé atelier 15</a>
                 
                 <a href="https://github.com/zakariyabenjrada-mar/ATL15.git">💻 GitHub</a>
             </div>
