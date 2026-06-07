@@ -224,20 +224,20 @@
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="">📄Ennoncé atelier 8</a>
-                <a href="#">📄 Rapport</a>
-                <a href="https://github.com/zakariyabenjrada-mar/Fuit-_Store.git">💻 GitHub</a>
+                <a href="/At11.pdf">📄Ennoncé atelier 8</a>
+                
+                <a href="https://github.com/zakariyabenjrada-mar/ATL11.git">💻 GitHub</a>
             </div>
         </div>
 
         <div class="atelier">
-            <h3>Atelier 8- Application E-Fruits controle continu</h3>
+            <h3>Atelier 12 Ajax Reponse Json</h3>
             <p><strong>Énoncé :</strong> Description de l'exercice ici...</p>
 
             <div class="links">
-                <a href="store.php">📄Ennoncé atelier 8</a>
-                <a href="#">📄 Rapport</a>
-                <a href="https://github.com/zakariyabenjrada-mar/Fuit-_Store.git">💻 GitHub</a>
+                <a href="/At12.pdf">📄Ennoncé atelier 8</a>
+                
+                <a href="https://github.com/zakariyabenjrada-mar/ATL12.git">💻 GitHub</a>
             </div>
         </div>
 
@@ -248,7 +248,7 @@
             <div class="links">
                 <a href="/At13.pdf">📄Ennoncé atelier 14</a>
                 
-                <a href="">💻 GitHub</a>
+                <a href="https://github.com/zakariyabenjrada-mar/atl13.git">💻 GitHub</a>
             </div>
         </div>
 
